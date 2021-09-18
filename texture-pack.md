@@ -7,7 +7,7 @@
 
 ---
 
-[`GJ_GameSheet03-uhd.png`](https://imgur.com/yRIvPDK)
+[`GJ_GameSheet03-uhd.png`](https://i.imgur.com/yRIvPDK.png)
 [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/https://github.com/Reper2/Downloadable-Files/master/assets/texture-pack/bigFont-uhd.fnt)
 
 ---
