@@ -1,4 +1,4 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://Dxrpy.github.io/Texture-Pack) Texture Pack [![DownloadBtn](https://cdn.discordapp.com/emojis/885670815725674527.png?size=32)](https://raw.githubusercontent.com/Dxrpy/Texture-Pack/)
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Texture-Pack) Texture Pack
 
 ###### Shit Texture Pack i made bc i was bored. (does include some mash-ups of other texture packs)
 
