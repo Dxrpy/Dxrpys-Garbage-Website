@@ -47,14 +47,14 @@
 
 ## Showcase:
 
-<ins>**Icons**</ins>
+## <ins>**Icons**</ins>
 
 ![`IconsShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889022701216350248/unknown.png)
 
-<ins>**Shop**</ins>
+## <ins>**Shop**</ins>
 
 ![`ShopShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023093035630682/unknown.png)
 
-<ins>**Menu**</ins>
+## <ins>**Menu**</ins>
 
 [![`MenuShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023270043668530/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/secret)
