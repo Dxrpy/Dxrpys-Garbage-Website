@@ -17,6 +17,8 @@
 
 ## Showcase:
 
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ![`IconsShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889022701216350248/unknown.png)
 ![`ShopShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023093035630682/unknown.png)
 ![`MenuShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023270043668530/unknown.png)
