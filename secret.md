@@ -1,14 +1,13 @@
-<!--Code By WebDevTrick (https://webdevtrick.com)-->
 <html lang="en">
 <head>
  <meta charset="UTF-8">
- <title>Simple JavaScript Snake Game| Webdevtrick.com</title>
+ <title>Snake</title>
  
  <style>
  canvas {
  display: block;
  position: absolute;
- border: 5px solid  #009BFF;
+ border: 5px solid  #000000;
  margin: auto;
  top: 0;
  bottom: 0;
@@ -244,7 +243,7 @@ function draw() {
  ctx.fillStyle = "#333";
  break;
  case FRUIT:
- ctx.fillStyle = "#009BFF";
+ ctx.fillStyle = "#000000";
  break;
  }
  ctx.fillRect(x*tw, y*th, tw, th);
