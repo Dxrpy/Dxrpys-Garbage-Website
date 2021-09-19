@@ -8,7 +8,7 @@
 
 ## Texture Pack
 
-[![`Texture Pack`](https://cdn.discordapp.com/attachments/584355797366997002/888985073506992138/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
+[![`Texture Pack`](https://cdn.discordapp.com/attachments/584355797366997002/888985681957908521/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
 
 
 
