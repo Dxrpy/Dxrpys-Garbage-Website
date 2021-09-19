@@ -1,7 +1,7 @@
 
 # Hello there...
 
-#### Not sure what brings you here but whatever it is, i probably cant help with it.
+### Not sure what brings you here but whatever it is, i probably cant help with it.
 
 
 ### Stuff:
