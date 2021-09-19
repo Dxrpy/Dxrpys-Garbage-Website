@@ -61,3 +61,5 @@
 ### <ins>**Menu**</ins>
 
 [![`MenuShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023270043668530/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/secret)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
