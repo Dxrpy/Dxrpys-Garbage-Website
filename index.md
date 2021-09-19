@@ -38,7 +38,8 @@
 
 ![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png)     <a href="https://outlook.live.com/">iamderpyguy123@gmail.com</a>
 
-
+<br>
+<br>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/884941846386724954/889076402702389258/communityIcon_03_001.png">
 </p>
