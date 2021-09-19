@@ -44,8 +44,13 @@
 </p>
 <br>
 
+
+
+
 <script>
-for (let i = 0; i < cars.length; i++) {
-  text += cars[i] + "<br>";
+  for (i in <br>) {
+    print(i)    
 }
-                                </script>
+</script>
+  
+  
