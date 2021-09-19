@@ -9,7 +9,7 @@
  position: absolute;
  border: 5px solid  #000000;
  margin: auto;
- top: 300;
+ top: 100;
  bottom: 0;
  right: 0;
  left: 0;
