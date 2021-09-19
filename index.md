@@ -27,7 +27,7 @@
 #### View my steam account and tradelink
 
 
-[![`Steam`](https://cdn.discordapp.com/attachments/584355797366997002/889285785424130048/2048px-Steam_icon_logo.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/steam)
+[![`Steam`](https://cdn.discordapp.com/attachments/584355797366997002/889293380155228160/2048px-Steam_icon_logo.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/steam)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
