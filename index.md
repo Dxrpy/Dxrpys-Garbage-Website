@@ -22,7 +22,7 @@
 ## Geometry Dash
 
 ##### Info about all things GD
-[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/889009840838545488/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
+[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/889034231882317834/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
 
 
 
