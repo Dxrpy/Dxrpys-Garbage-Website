@@ -13,15 +13,17 @@
 
 ## Youtube
 
+## Geometry Dash
+
+##### Info about all things GD
+[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/889034231882317834/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
+
 ##### Subscribe if you like kids
 [![`Youtube`](https://cdn.discordapp.com/attachments/584355797366997002/889034538183966740/YouTube-Emblem.png)](https://www.youtube.com/channel/UCnLkWPySSz6XE-Hf0-YV8SA)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-## Geometry Dash
 
-##### Info about all things GD
-[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/889034231882317834/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
 
 
 
