@@ -8,7 +8,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-**If you want to see the sheets (keep in mind, if you drag and drop these it wont work):**
+**If you want to see the sheets here you go (keep in mind, if you drag and drop these it wont work):**
 
 [`GJ_GameSheet02-uhd.png`](https://cdn.discordapp.com/attachments/584355797366997002/888748003324739584/GJ_GameSheet02-uhd.png)
 
