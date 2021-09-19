@@ -17,7 +17,11 @@
 
 ## Showcase:
 
+**Icons**
 ![`IconsShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889022701216350248/unknown.png)
----------------------------------------------------------------------------------------
+
+**Shop**
 ![`ShopShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023093035630682/unknown.png)
+
+**Menu**
 ![`MenuShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023270043668530/unknown.png)
