@@ -2,7 +2,7 @@
 ---
 
 ### - Texture Pack i made bc i was bored
-### - Includes some mash-ups of other texture packs
+### - Includes some mash-ups of other texture packs + my own
 ### - I suggest not using any glow on your icons or they will break
 ### - Then again im not your dad so i dont really care.
 
