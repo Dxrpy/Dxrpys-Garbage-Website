@@ -28,4 +28,4 @@
 
 
 ## Contact Info:
-![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888982767080206356/discord_logo-freelogovectors.png) # Derpy#4555
+![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png) # Derpy#4555
