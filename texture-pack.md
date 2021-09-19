@@ -22,11 +22,12 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-**Download (for omega chads):**
+## Download (for omega chads):
 
 <a href="https://www.mediafire.com/file/ig9qfqm6c8jvgt8/Meme_Mashup_Pack.zip/file">Meme Texture Pack v1</a>
 
-## Instructions:
+**Instructions:**
+
 *- Click the link above and download the .zip file*
 
 *- Exract the .zip file where ever you want on your pc*
