@@ -11,8 +11,6 @@
 
 <p align="center">
   <a href="https://steamcommunity.com/id/dxrpy/games/?tab=all"><img src="https://user-images.githubusercontent.com/64295233/133946103-2529b434-e3aa-49e7-94bd-7901446328a1.png"/></a>
+  <a href="https://steamcommunity.com/id/dxrpy/inventory/"><img src="https://user-images.githubusercontent.com/64295233/133946106-42fb8d86-cac2-4cea-b0f8-a8365e91110b.png"/></a>
+  <a href="https://steamcommunity.com/tradeoffer/new/?partner=1021365250&token=u7JlESO6"><img src="https://user-images.githubusercontent.com/64295233/133946107-79ba7158-e795-4661-b968-47b858d1a1b5.png"/></a>
 </p>
-
-<a href="url">link text</a>
-
-![sefevhv](https://user-images.githubusercontent.com/64295233/133946103-2529b434-e3aa-49e7-94bd-7901446328a1.png)    ![drhdrhd](https://user-images.githubusercontent.com/64295233/133946106-42fb8d86-cac2-4cea-b0f8-a8365e91110b.png)     ![evfhjevhaf](https://user-images.githubusercontent.com/64295233/133946107-79ba7158-e795-4661-b968-47b858d1a1b5.png)
