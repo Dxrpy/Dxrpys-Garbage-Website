@@ -237,7 +237,7 @@ function draw() {
  
  switch (grid.get(x, y)) {
  case EMPTY:
- ctx.fillStyle = "#646464";
+ ctx.fillStyle = "#393939";
  break;
  case SNAKE:
  ctx.fillStyle = "#3BC519";
