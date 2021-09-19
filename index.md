@@ -42,16 +42,4 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/884941846386724954/889076402702389258/communityIcon_03_001.png">
 </p>
-<br>
-
-
-
-
-<script>
-while (i < 10) {
-  text += "The number is " + i;
-  i++;
-}
-</script>
-  
-  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
