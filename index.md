@@ -48,8 +48,9 @@
 
 
 <script>
-  for (i in <br>) {
-    print(i)    
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
 }
 </script>
   
