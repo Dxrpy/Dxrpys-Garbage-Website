@@ -17,7 +17,7 @@
 
 ## Showcase:
 
-**Icons**
+<ins>**Icons**</ins>
 ![`IconsShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889022701216350248/unknown.png)
 
 **Shop**
