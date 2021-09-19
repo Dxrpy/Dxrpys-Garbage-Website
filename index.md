@@ -34,7 +34,7 @@
 
 
 
-
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 ## Contact Info:
 ![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png)      Derpy#4555
