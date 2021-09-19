@@ -1,4 +1,3 @@
-
 # Hello there...
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
@@ -23,12 +22,6 @@
 
 ##### Info about all things GD
 [![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/889034231882317834/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
-
-
-
-
-
-
 
 
 
