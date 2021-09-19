@@ -1,5 +1,6 @@
 # [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)   Geometry Dash
 
+---
 
 ### Stuff for GD i guess
 
