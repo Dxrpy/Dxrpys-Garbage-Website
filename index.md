@@ -37,21 +37,8 @@
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 ## Contact Info:
-![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png)      Derpy#4555
+![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png)      <a href="discord.com">Derpy#4555</a>
 
 
-![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png)     ethan@crump.net.au
+![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png)     <a href="gmail.com">ethan@crump.net.au</a>
 
-
-
-
-<p align="center">
-  <b>Contact Info:</b><br>
-  <img width="50" height="50" src="https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png">
-  <a href="#">Derpy#4555</a> |
-  <img width="50" height="50" src="https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png">
-  <a href="#">ethan@crump.net.au</a>
-  <br><br>
-</p>
-
-Normal text
