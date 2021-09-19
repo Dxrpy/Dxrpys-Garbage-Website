@@ -26,6 +26,15 @@
 
 <a href="https://www.mediafire.com/file/ig9qfqm6c8jvgt8/Meme_Mashup_Pack.zip/file">Meme Texture Pack v1</a>
 
+## Instructions:
+*- Click the link above and download the .zip file*
+*- Exract the .zip file where ever you want on your pc*
+*- Select everything you just extracted (ctrl + a)*
+*- Copy everything (ctrl + c)*
+*- Locate your Resources folder in Geometry Dash (C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Resources)*
+*- Paste your copied files into that folder*
+*- If it asks you to replace the files say 'yes'*
+
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
