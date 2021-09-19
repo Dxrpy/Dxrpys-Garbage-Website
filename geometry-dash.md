@@ -2,7 +2,7 @@
 
 ###### Stuff for GD i guess
 
-![`ProfileName`](https://media.discordapp.net/attachments/888230424625680515/888709247012053002/GJ_profileButton_001.png)
+![`ProfileName`](https://cdn.discordapp.com/attachments/584355797366997002/888991015673942076/profile.png) User: ausurbanboy
 
 ---
 
