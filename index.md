@@ -37,8 +37,7 @@
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 ## Contact Info:
-![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/889050979104874546/awfghts.png)      <a href="https://discord.com">Derpy#4555</a>
-
+![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/889050979104874546/awfghts.png)<a href="https://discord.com">Derpy#4555</a>
 ![`Discord2`](https://cdn.discordapp.com/attachments/584355797366997002/889050983680860201/grdghsjtj.png)
 
 
