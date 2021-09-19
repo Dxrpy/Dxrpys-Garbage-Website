@@ -28,8 +28,11 @@
 
 ## Instructions:
 *- Click the link above and download the .zip file*
+
 *- Exract the .zip file where ever you want on your pc*
+
 *- Select everything you just extracted (ctrl + a)*
+
 *- Copy everything (ctrl + c)*
 *- Locate your Resources folder in Geometry Dash (C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Resources)*
 *- Paste your copied files into that folder*
