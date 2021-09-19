@@ -4,7 +4,6 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
----
 
 [![`ProfileName`](https://cdn.discordapp.com/attachments/584355797366997002/888991015673942076/profile.png)](https://gdbrowser.com/u/ausurbanboy)
 
