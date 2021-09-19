@@ -11,8 +11,12 @@
 [![`Texture Pack`](https://cdn.discordapp.com/attachments/584355797366997002/888985681957908521/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
 ##### Click above for the textures if you want to download them
 
+---
 
+[![`Youtube`](https://cdn.discordapp.com/attachments/584355797366997002/888987316004192286/YouTube-Emblem.png)](https://www.youtube.com/channel/UCnLkWPySSz6XE-Hf0-YV8SA)
+##### Subscribe if you like kids
 
+---
 
 
 
