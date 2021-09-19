@@ -3,6 +3,8 @@
 ###### Texture Pack i made bc i was bored. (does include some mash-ups of other texture packs)
 ##### I suggest not using any glow on your icons or they will break. Then again im not your dad so i dont really care.
 
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 [`GJ_GameSheet02-uhd.png`](https://cdn.discordapp.com/attachments/584355797366997002/888748003324739584/GJ_GameSheet02-uhd.png)
 
 ---
