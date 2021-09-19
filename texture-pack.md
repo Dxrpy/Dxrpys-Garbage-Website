@@ -34,8 +34,11 @@
 *- Select everything you just extracted (ctrl + a)*
 
 *- Copy everything (ctrl + c)*
+
 *- Locate your Resources folder in Geometry Dash (C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Resources)*
+
 *- Paste your copied files into that folder*
+
 *- If it asks you to replace the files say 'yes'*
 
 
