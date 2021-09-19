@@ -8,6 +8,8 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+**Individual Downloads (for sceptics):**
+
 [`GJ_GameSheet02-uhd.png`](https://cdn.discordapp.com/attachments/584355797366997002/888748003324739584/GJ_GameSheet02-uhd.png)
 
 ---
@@ -17,6 +19,12 @@
 ---
 
 [`GJ_gradientBG-hd.png`](https://cdn.discordapp.com/attachments/584355797366997002/888751059940564992/GJ_gradientBG-hd.png)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
+**Direct Download (for omega chads):**
+
+N/A
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
