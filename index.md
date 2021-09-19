@@ -47,7 +47,7 @@
 
 <p align="center">
   <b>Contact Info:</b><br>
-  <a href="#">https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png</a> |
+  <a href="#">"https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png"</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
