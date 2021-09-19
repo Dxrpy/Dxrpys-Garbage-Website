@@ -10,14 +10,14 @@
 ##### Click below for the textures if you want to download them
 [![`Texture Pack`](https://cdn.discordapp.com/attachments/584355797366997002/888985681957908521/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
 
----
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 ## Youtube
 
 ##### Subscribe if you like kids
 [![`Youtube`](https://cdn.discordapp.com/attachments/584355797366997002/888987316004192286/YouTube-Emblem.png)](https://www.youtube.com/channel/UCnLkWPySSz6XE-Hf0-YV8SA)
 
----
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 ## Geometry Dash
 
