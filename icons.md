@@ -1,7 +1,7 @@
 # [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)   My Favourite Icons:
 
 ![`Icon`](https://gdbrowser.com/icon/icon?icon=104&form=cube&col1=15&col2=9)
-## Icon
+## Cube
 ---
 ![`Ship`](https://gdbrowser.com/icon/icon?icon=42&form=ship&col1=15&col2=9)
 ## Ship
