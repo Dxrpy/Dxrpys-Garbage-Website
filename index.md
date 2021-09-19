@@ -28,4 +28,5 @@
 
 
 ## Contact Info:
-![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png) # Derpy#4555
+![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png)        ![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/888984411813609482/8fc37b74b608a622588fbaa361485f32.png)
+Derpy#4555              ethan@crump.net.au
