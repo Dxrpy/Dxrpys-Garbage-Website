@@ -1,7 +1,7 @@
 # [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website) Texture Pack
 ---
 
-### - Texture Pack i made bc i was bored
+### - Texture Pack i made because i was bored
 ### - Includes some mash-ups of other texture packs + my own
 ### - I suggest not using any glow on your icons or they will break
 ### - Then again im not your dad so i dont really care.
