@@ -9,7 +9,7 @@
  position: absolute;
  border: 5px solid  #000000;
  margin: auto;
- top: 0;
+ top: 300;
  bottom: 0;
  right: 0;
  left: 0;
@@ -237,13 +237,13 @@ function draw() {
  
  switch (grid.get(x, y)) {
  case EMPTY:
- ctx.fillStyle = "#fff";
+ ctx.fillStyle = "#646464";
  break;
  case SNAKE:
- ctx.fillStyle = "#333";
+ ctx.fillStyle = "#3BC519";
  break;
  case FRUIT:
- ctx.fillStyle = "#000000";
+ ctx.fillStyle = "#E51313";
  break;
  }
  ctx.fillRect(x*tw, y*th, tw, th);
