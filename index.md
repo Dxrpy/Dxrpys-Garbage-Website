@@ -1,8 +1,8 @@
+<p align="center">
 <header>
-  <p align="center">
-    <h1>Hello there...</h1>
-  </p>
+  <h1>Hello there...</h1>
 </header>
+</p>
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
 
