@@ -2,18 +2,8 @@
   <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website">
     <img src="https://cdn.discordapp.com/emojis/887168885747511396?size=32" width="26" height="32">
   </a>
+  <center>Geometry Dash</center>
 </p>
-
-
-
-<div class="container">
-  <div class="image">
-    <img src="https://cdn.discordapp.com/emojis/887168885747511396?size=32">
-  </div>
-  <div class="text">
-    <h1>Paris is one of the most beautiful cities in France.</h1>
-  </div>
-</div>
 
 
 # [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website) Geometry Dash
