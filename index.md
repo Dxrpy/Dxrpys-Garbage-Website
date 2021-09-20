@@ -1,7 +1,16 @@
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+</style>
+</head>
 <body>
-      <h1 style="text-align:center">Hello there...</h1>
-      <p>test</p>
+<h1>Hello there...</h1>
 </body>
+</html>
+
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
 
