@@ -1,16 +1,5 @@
-<html>
-<head>
-<style>
-h1 {
-  text-align: center;
-}
-</style>
-</head>
-<body>
-<h1>Hello there...</h1>
-</body>
-</html>
-
+h1 {text-align: center;}
+<h1>test</h1>
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
 
