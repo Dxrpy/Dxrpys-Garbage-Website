@@ -26,7 +26,7 @@
 
 ## Download (for omega chads):
 
-<a href="https://www.mediafire.com/file/ig9qfqm6c8jvgt8/Meme_Mashup_Pack.zip/file">Meme Texture Pack v1</a>
+N/A
 
 **Instructions:**
 
