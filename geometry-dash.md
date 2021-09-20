@@ -1,5 +1,8 @@
-<center>Geometry Dash</center>
-[![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)
+<p><a href="https://dxrpy.github.io/Dxrpys-Garbage-Website">
+<img src="https://cdn.discordapp.com/emojis/887168885747511396?size=32" width="26" height="32"></a><center>test</center>
+</p>
+
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website) Geometry Dash
 
 ---
 
