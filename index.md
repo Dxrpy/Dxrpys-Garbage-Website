@@ -2,7 +2,7 @@
   <p align="center">
   <h1>Hello there...</h1>
   </p>
-</header
+</header>
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
 
