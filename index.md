@@ -1,6 +1,6 @@
 <header>
   <p align="center">
-  <h1>Hello there...</h1>
+    <h1>Hello there...</h1>
   </p>
 </header>
 
