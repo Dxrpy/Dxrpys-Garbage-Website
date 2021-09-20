@@ -1,8 +1,8 @@
 <p>
   <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website">
     <img src="https://cdn.discordapp.com/emojis/887168885747511396?size=32" width="26" height="32">
-  </a>
     <center>Geometry Dash</center>
+  </a>
 </p>
 
 
