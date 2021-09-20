@@ -1,5 +1,4 @@
-h1 {text-align: center;}
-<h1>test</h1>
+<h1 style="text-align:center">Tutorial</h1>
 
 ### Not sure what brings you here but whatever it is, i probably cant help with it.
 
