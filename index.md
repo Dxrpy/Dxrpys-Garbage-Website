@@ -50,7 +50,7 @@
 ![`Discord`](https://cdn.discordapp.com/attachments/584355797366997002/888983547581431869/discord_logo-freelogovectors.net_-400x400.png) <a href="https://discord.com">Derpy#4555</a>
 
 
-![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png)     <a href="https://outlook.live.com/">iamderpyguy123@gmail.com</a>
+![`Email`](https://cdn.discordapp.com/attachments/584355797366997002/889030254054764584/8fc37b74b608a622588fbaa361485f32_1.png)     <a href="https://mail.google.com/">iamderpyguy123@gmail.com</a>
 
 <br>
 <br>
