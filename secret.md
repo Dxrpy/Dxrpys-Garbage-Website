@@ -11,7 +11,7 @@
  position: absolute;
  border: 5px solid  #000000;
  margin: auto;
- top: 0;
+ top: -10;
  bottom: 0;
  right: 0;
  left: 0;
