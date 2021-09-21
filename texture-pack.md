@@ -12,6 +12,8 @@
 
 *(keep in mind, if you drag and drop these it wont work)*
 
+<ins>OUTDATED</ins>
+
 [`GJ_GameSheet02-uhd.png`](https://cdn.discordapp.com/attachments/584355797366997002/888748003324739584/GJ_GameSheet02-uhd.png)
 
 ---
