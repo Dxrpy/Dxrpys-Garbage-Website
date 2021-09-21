@@ -8,8 +8,7 @@
 
 ##### Click below for the textures if you want to download them
 
-
-[![`Texture Pack`](https://cdn.discordapp.com/attachments/584355797366997002/888985681957908521/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
+[![`Texture Pack`](https://user-images.githubusercontent.com/64295233/134110158-3f2e499d-d883-4e5e-a353-472490e638c2.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/texture-pack)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
