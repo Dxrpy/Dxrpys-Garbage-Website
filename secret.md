@@ -1,4 +1,4 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Hmmm...
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png)
 <html lang="en">
 <head>
  <meta charset="UTF-8">
@@ -10,7 +10,7 @@
  position: absolute;
  border: 5px solid  #000000;
  margin: auto;
- top: -1;
+ top: 0;
  bottom: 0;
  right: 0;
  left: 0;
