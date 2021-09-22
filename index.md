@@ -30,6 +30,14 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+## Textbox
+
+#### Because why not
+
+[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/889293380155228160/2048px-Steam_icon_logo.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/text)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## Youtube
 
 ##### Subscribe if you like kids
