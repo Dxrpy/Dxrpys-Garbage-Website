@@ -1,10 +1,10 @@
-<textarea name="text" cols="50" rows="5">
-balls
-</textarea>
-<br>
-<input type="submit" />
+<form id="form" onsubmit="return false;">
+<input   style=position:absolute;top:80%;left:5%;width:40%; type="text" id="userInput">
+<input   style=position:absolute;top:50%;left:5%;width:40%; type="submit"    onclick="name()">
+</form>
 
-function getInputFromTextBox() {
-    var input = document.getElementById("userInput").value;
-    alert(input);
+function name()
+{
+var input = document.getElementById("userInput");
+alert(input);
 }
