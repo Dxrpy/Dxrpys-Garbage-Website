@@ -3,5 +3,5 @@
 Enter some text...
 </textarea>
 <br />
-<input type="Joe Mama" />
+<input type="submit" />
 </form>
