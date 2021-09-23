@@ -1,8 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h2>Free Bobux!!11!1!!1 WORKING 2021</h2>
+<p align=center>
+  <h1>Free Bobux!!11!1!!1 WORKING 2021</h1>
+</p>
 
 <form action="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <label for="fname">Account Name:</label><br>
