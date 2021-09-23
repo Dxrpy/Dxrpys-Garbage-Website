@@ -16,6 +16,6 @@ Npesta's Account
 
 ---
 
-![`PIcon`](https://gdbrowser.com/icon/icon?icon=30&form=cube&col1=2&col2=12) ![`PShip`](https://gdbrowser.com/icon/icon?icon=22&form=ship&col1=2&col2=12) ![`PBall`](https://gdbrowser.com/icon/icon?icon=30&form=ball&col1=2&col2=12)
+![`PIcon`](https://gdbrowser.com/icon/icon?icon=30&form=cube&col1=2&col2=12) ![`PShip`](https://gdbrowser.com/icon/icon?icon=22&form=ship&col1=2&col2=12) ![`PBall`](https://gdbrowser.com/icon/icon?icon=30&form=ball&col1=2&col2=12) ![`PUFO`](https://gdbrowser.com/icon/icon?icon=29&form=ufo&col1=2&col2=12) ![`PWave`](https://gdbrowser.com/icon/icon?icon=1&form=wave&col1=2&col2=12) ![`PRobot`](https://gdbrowser.com/icon/icon?icon=15&form=robot&col1=2&col2=12) ![`PSpider`](https://gdbrowser.com/icon/icon?icon=11&form=spider&col1=2&col2=12)
 
 
