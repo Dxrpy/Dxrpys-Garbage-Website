@@ -12,15 +12,7 @@
 
 ---
 
-<p align="left">
-  <img src="https://cdn.discordapp.com/attachments/584355797366997002/890589130705240105/profile.png">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64295233/134525419-9b8f3c96-6f90-4fc9-bd71-7859646233cc.png">
-</p>
-  
----
-
-[![`ProfileName`](https://cdn.discordapp.com/attachments/584355797366997002/890589130705240105/profile.png)](https://gdbrowser.com/u/npesta) ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) [![`YTPesta`](https://user-images.githubusercontent.com/64295233/134525419-9b8f3c96-6f90-4fc9-bd71-7859646233cc.png)](https://www.youtube.com/watch?v=Bs1kVySdUtI) ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) ![`SmolPest`](https://user-images.githubusercontent.com/64295233/134527020-b9b4d90c-88ff-4b8f-9fa4-0c08804fab43.jpg)
+[![`ProfileName`](https://cdn.discordapp.com/attachments/584355797366997002/890589130705240105/profile.png)](https://gdbrowser.com/u/npesta) ![`Nothing2`](https://cdn.discordapp.com/attachments/584355797366997002/890603306144120842/nothing.png)![`Nothing2`](https://cdn.discordapp.com/attachments/584355797366997002/890603306144120842/nothing.png) [![`YTPesta`](https://user-images.githubusercontent.com/64295233/134525419-9b8f3c96-6f90-4fc9-bd71-7859646233cc.png)](https://www.youtube.com/watch?v=Bs1kVySdUtI) ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) ![`SmolPest`](https://user-images.githubusercontent.com/64295233/134527020-b9b4d90c-88ff-4b8f-9fa4-0c08804fab43.jpg)
 
 
 
