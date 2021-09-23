@@ -54,6 +54,14 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+## Help Dora.
+
+#### Just do it.
+
+[![`Dora`](https://cdn.discordapp.com/attachments/584355797366997002/890538574645190676/73-734430_head-clipart-dora-dora-the-explorer.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/dora)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## Marry me.
 
 [![`Rings`](https://cdn.discordapp.com/attachments/584355797366997002/890454517387255818/373-3731374_wedding-ring-png-clipart.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/marry)
