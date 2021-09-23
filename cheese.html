@@ -57,9 +57,11 @@
         window.onscroll = function(ev) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
         // you're at the bottom of the page
-        var div = document.createElement('img')
-        div.innerHTML = ('src', 'https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg')
-        document.body.appendChild(div)
+        var oImg = document.createElement("img");
+        oImg.setAttribute('src', 'https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg');
+        oImg.setAttribute('height', '333px');
+        oImg.setAttribute('width', '600px');
+        document.body.appendChild(oImg);
     }
 }
     </script>
