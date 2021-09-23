@@ -1,6 +1,6 @@
 <h1 style="text-align:center">Hello there...</h1>
 
-### Not sure what brings you here but whatever it is, i probably cant help with it.
+### Not sure what brings you here but whatever it is, I probably can't help with it.
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
