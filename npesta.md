@@ -6,7 +6,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-Nathaniel Pesta's Stuff:
+## Nathaniel Pesta's Stuff:
 
 ---
 
@@ -16,5 +16,6 @@ Npesta's Account
 
 ---
 
+![`PIcon`](https://gdbrowser.com/icon/icon?icon=30&form=cube&col1=2&col2=12) ![`PShip`](https://gdbrowser.com/icon/icon?icon=22&form=ship&col1=2&col2=12) ![`PBall`](https://gdbrowser.com/icon/icon?icon=30&form=ball&col1=2&col2=12)
 
 
