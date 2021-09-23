@@ -53,16 +53,15 @@
 <img src="https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg" width="600" height="333">
 <img src="https://images.theconversation.com/files/316919/original/file-20200224-24701-1lk36vg.jpg?ixlib=rb-1.1.0&rect=0%2C707%2C4493%2C2243&q=45&auto=format&w=1356&h=668&fit=crop" width="600" height="333">  
 
-    <script scr="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
-        $(window).scroll(function(){
-            if ($(window).scrollTop() == $(document).height()-$(window).height()){
-               $.ajax({
-                  url: "https://dxrpy.github.io/Dxrpys-Garbage-Website/cheese.html",
-                  success: function (data) { $('body').append(data); },
-                  dataType: 'html'
-               });
-            }
-        });
+    <script>
+        window.onscroll = function(ev) {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+        // you're at the bottom of the page
+        var div = document.createElement('div')
+        div.innerHTML = "your content"
+        document.body.appendChild(div)
+    }
+}
     </script>
   
 </body>
