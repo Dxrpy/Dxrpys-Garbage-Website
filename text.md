@@ -1,4 +1,5 @@
-<form id="form" onsubmit="return false;">
-  <input   style=position:absolute;top:80%;left:5%;width:40%; type="text" id="userInput">
-  <input   style=position:absolute;top:50%;left:5%;width:40%; type="submit"    onclick="name()">
-</form>
+<p align=center>
+  <textarea name="myTextBox" cols="50" rows="5">
+    Balls
+  </textarea>
+</p>
