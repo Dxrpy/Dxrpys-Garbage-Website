@@ -9,16 +9,19 @@
   <input type="hidden" name="v" value="iik25wqIuFo">
   
   <label for="fname">Account Name:</label>
-  <br><br>
+  <br>
   
   <input type="text" id="fname" name="fname" value=""><br>
+  <br>
+  
   <label for="lname">How many Bobux do you want?</label>
-  <br><br>
+  <br>
   
   <input type="text" id="lname" name="lname" value=""><br><br>
   <button type="submit">CLICK FOR FREE BOBUX!!!</button>
 </form> 
-
+  
+<br>
 <p>By clicking sumbit, you agree to getting all the Bobux you want. 😎 (am professional hacker so am can hack mainframe)</p>
 
 </body>
