@@ -2,7 +2,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-![`Dora`](https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdUq1AkZ8opLu89fSiPYhj2BrL5cpBQONwdLESYWZLNcVasBLybwTRNOylCLf0J50SF17rdiLlwQmHYsksyZY9dXJMGUDi8T3A08uWvSM6OfF6le.jpg?r=993)
+![`Dora`](https://cdn.discordapp.com/attachments/584355797366997002/890504939405733888/AAAABdUq1AkZ8opLu89fSiPYhj2BrL5cpBQONwdLESYWZLNcVasBLybwTRNOylCLf0J50SF17rdiLlwQmHYsksyZY9dXJMGUDi8T.jpg)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
