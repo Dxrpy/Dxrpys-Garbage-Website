@@ -34,7 +34,13 @@
 
 #### Because why not
 
-[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/889293380155228160/2048px-Steam_icon_logo.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/text.html)
+[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/889293380155228160/2048px-Steam_icon_logo.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/text)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
+## Marry me.
+
+[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/890453198924550174/373-3731374_wedding-ring-png-clipart.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/marry)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
