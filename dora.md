@@ -6,7 +6,11 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-### Which one is the immigrant.
+<p align=center>
+  <b>
+    Which one is the immigrant.
+  </b>
+</p>
 <p align="center">
   <a href="https://steamcommunity.com"><img src="https://cdn.discordapp.com/attachments/584355797366997002/890503631231668285/bee.png"/></a>
   <a href="https://steamcommunity.com/"><img src="https://cdn.discordapp.com/attachments/584355797366997002/890503628043980820/bird.png"/></a>
