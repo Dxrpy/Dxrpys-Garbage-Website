@@ -2,7 +2,9 @@
 <body>
   
   <p align=center>
-    Free Bobux!!11!1!!1 WORKING 2021
+    <b>
+      Free Bobux!!11!1!!1 WORKING 2021
+    </b>
   </p>
 
 <form action="https://www.youtube.com/watch" method="get">
