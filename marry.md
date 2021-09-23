@@ -1,7 +1,5 @@
 <p align=center>
-  <b>
   I'm taken. My bad.
-  </b>
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
