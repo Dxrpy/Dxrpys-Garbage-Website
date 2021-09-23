@@ -40,7 +40,7 @@
 
 ## Marry me.
 
-[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/890453198924550174/373-3731374_wedding-ring-png-clipart.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/marry)
+[![`TextBox`](https://cdn.discordapp.com/attachments/584355797366997002/890453686961205268/373-3731374_wedding-ring-png-clipart.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/marry)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
