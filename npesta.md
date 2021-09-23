@@ -2,7 +2,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-<img src="https://pbs.twimg.com/profile_images/1238206666417545216/T3WmyRmJ_400x400.jpg" align=center>
+<img src="https://pbs.twimg.com/profile_images/1238206666417545216/T3WmyRmJ_400x400.jpg" align=middle>
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
