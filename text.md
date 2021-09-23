@@ -3,7 +3,7 @@
   <input   style=position:absolute;top:50%;left:5%;width:40%; type="submit"    onclick="name()">
 </form>
 
-<script>
+<script type="text/javascript">
   function name()
   {
   var input = document.getElementById("userInput");
