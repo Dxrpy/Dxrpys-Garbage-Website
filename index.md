@@ -58,7 +58,7 @@
 
 #### Just do it.
 
-[![`Dora`](https://static.wikia.nocookie.net/muc/images/f/f6/Dora_the_Explorer.png/revision/latest?cb=20180315203942)](https://dxrpy.github.io/Dxrpys-Garbage-Website/dora)
+[![`Dora`](https://cdn.discordapp.com/attachments/584355797366997002/890541746352697354/73-734430_head-clipart-dora-dora-the-explorer.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/dora)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
