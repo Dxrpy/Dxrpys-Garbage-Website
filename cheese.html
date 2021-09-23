@@ -57,8 +57,8 @@
         window.onscroll = function(ev) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
         // you're at the bottom of the page
-        var div = document.createElement('div')
-        div.innerHTML = <img src="https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg" width="600" height="333">
+        var div = document.createElement('img')
+        div.innerHTML = ('src', 'https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg')
         document.body.appendChild(div)
     }
 }
