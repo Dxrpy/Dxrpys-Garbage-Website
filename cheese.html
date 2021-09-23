@@ -56,11 +56,13 @@
     <script>
         window.onscroll = function(ev) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-        // you're at the bottom of the page
         var oImg = document.createElement("img");
-        oImg.setAttribute('src', 'https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg' and 'https://www.culturesforhealth.com/learn/wp-content/uploads/2016/04/Homemade-Cheddar-Cheese-header-1200x675.jpg');
+        oImg.setAttribute('src', 'https://lovingitvegan.com/wp-content/uploads/2018/11/Vegan-Cheddar-Cheese-12.jpg');
         oImg.setAttribute('height', '333px');
         oImg.setAttribute('width', '600px');
+        oImg[0].src = "https://www.culturesforhealth.com/learn/wp-content/uploads/2016/04/Homemade-Cheddar-Cheese-header-1200x675.jpg";
+        oImg[1].src = "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthiest-cheese-1296x728-swiss.jpg?w=1155&h=1528";
+        oImg[2].src = "https://solidstarts.com/wp-content/uploads/Cheddar-for-Babies-480x320.jpg";
         document.body.appendChild(oImg);
     }
 }
@@ -68,3 +70,6 @@
   
 </body>
 </html>
+
+
+
