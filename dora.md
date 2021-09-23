@@ -1,4 +1,4 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Can YOU Find the ___
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Can YOU Help Dora?
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
@@ -8,7 +8,7 @@
 
 <p align=center>
   <b>
-    Which one is the immigrant.
+    Which one is the illegal immigrant.
   </b>
 </p>
 <p align="center">
