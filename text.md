@@ -1,5 +1,5 @@
 <p align=center>
-  <textarea name="myTextBox" cols="50" rows="5">
+  <textarea name="BallsBox" cols="75" rows="20">
 Balls
   </textarea>
 </p>
