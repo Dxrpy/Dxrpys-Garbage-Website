@@ -2,18 +2,19 @@
 <html>
 <body style="background-color:yellow;">
 
-
-<script>
-    $(window).scroll(function(){
-        if ($(window).scrollTop() == $(document).height()-$(window).height()){
-           $.ajax({
-              url: "https://dxrpy.github.io/Dxrpys-Garbage-Website/cheese.html",
-              success: function (data) { $('body').append(data); },
-              dataType: 'html'
-           });
-        }
-    });
-</script>
+<head>
+    <script scr="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+        $(window).scroll(function(){
+            if ($(window).scrollTop() == $(document).height()-$(window).height()){
+               $.ajax({
+                  url: "https://dxrpy.github.io/Dxrpys-Garbage-Website/cheese.html",
+                  success: function (data) { $('body').append(data); },
+                  dataType: 'html'
+               });
+            }
+        });
+    </script>
+</head>
   
 <img src="https://www.culturesforhealth.com/learn/wp-content/uploads/2016/04/Homemade-Cheddar-Cheese-header-1200x675.jpg" width="600" height="333">
 <img src="https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthiest-cheese-1296x728-swiss.jpg?w=1155&h=1528" width="600" height="333">
