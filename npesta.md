@@ -16,7 +16,7 @@
 
 
 
-Npesta's Account ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Kenos ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Images
+Npesta's Account ![nothing](https://user-images.githubusercontent.com/64295233/134528980-3d398c71-0db3-4b63-8ea0-e537a35f251f.png) Kenos ![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Images
 
 ---
 
