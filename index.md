@@ -35,7 +35,7 @@
 #### Find products I've (kinda) manufactured
 
 
-[![`Products`](https://cdn.corporatefinanceinstitute.com/assets/products-and-services.jpeg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/products)
+[![`Products`](https://user-images.githubusercontent.com/64295233/134758367-4bc0dc89-785a-48e8-a8ab-a3a15b577c8d.jpeg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/products)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
