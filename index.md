@@ -89,7 +89,7 @@
 
 #### Yeah you. Karen. You suck because my website is awesome.
 
-[![`Complaint`](https://user-images.githubusercontent.com/64295233/134755269-a649fd69-3864-47b5-8865-53df11389b46.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/complaints)
+[![`Complaint`](https://cdn.discordapp.com/attachments/584355797366997002/891156947192143892/42012136-complaint-button-on-isolate-white-background.jpg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/complaints)
 
 
 
