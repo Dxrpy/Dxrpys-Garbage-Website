@@ -19,6 +19,8 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-### BUY HERE:
+## BUY HERE:
 
-<b><a href="https://accessworld.com.au/products/copy-of-indalex-pro-series-aluminium-single-ladder-3m-10f">Compressable Ladder</a></b>
+<h2><b><a href="https://accessworld.com.au/products/copy-of-indalex-pro-series-aluminium-single-ladder-3m-10f">Compressable Ladder</a></b></h2>
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
