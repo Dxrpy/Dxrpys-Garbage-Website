@@ -4,6 +4,7 @@
     [Complain, you big baby]
   </textarea>
 </p>
-<form action="https://www.youtube.com/watch?v=LTobZMNm4Fw">
+<form action=https://www.youtube.com/watch" method="get">
+  <input type="hidden" name="v" value="LTobZMNm4Fw">
   <input type="submit" value="Submit">
 </form> 
