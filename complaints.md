@@ -1,7 +1,6 @@
 <p align=center>
   <h1>Write your complaint below:</h1>
   <textarea name="BallsBox" cols="75" rows="30">
-    [Complain, you big baby]
   </textarea>
 </p>
 
