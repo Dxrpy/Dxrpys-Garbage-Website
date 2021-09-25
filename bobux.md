@@ -30,5 +30,12 @@
 <br>
 <p>By clicking sumbit, you agree to getting all the Bobux you want. 😎 (am professional hacker so am can hack mainframe)</p>
 
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+  
+I am legally obliged to say that Nat is hot. (I was paid to say this.)
+  
 </body>
 </html>
