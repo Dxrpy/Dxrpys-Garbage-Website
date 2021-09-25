@@ -15,5 +15,4 @@
   <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website/dora_answer_1"><img src="https://cdn.discordapp.com/attachments/584355797366997002/890503631231668285/bee.png"/></a>
   <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website/dora_answer_2"><img src="https://cdn.discordapp.com/attachments/584355797366997002/890503628043980820/bird.png"/></a>
   <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website/dora_answer_3"><img src="https://cdn.discordapp.com/attachments/584355797366997002/890503627322572840/dora.png"/></a>
-  <a href="https://dxrpy.github.io/Dxrpys-Garbage-Website/dora_answer_3"><img src="https://images.newscientist.com/wp-content/uploads/2019/10/16151942/cataglyphisbombycinasoldier1uniulmdouzfotohwolf.jpg"/></a>
 </p>
