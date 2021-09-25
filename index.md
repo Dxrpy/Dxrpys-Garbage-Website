@@ -30,6 +30,15 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+## Products
+
+#### Find products I've (kinda) manufactured
+
+
+[![`Products`](https://cdn.corporatefinanceinstitute.com/assets/products-and-services.jpeg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/products)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## Textbox
 
 #### Because why not
