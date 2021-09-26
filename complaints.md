@@ -2,12 +2,14 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-<p align=left>
+<p align=center>
   <textarea name="BallsBox" cols="75" rows="30">
   </textarea>
 </p>
 
-<form action="https://www.youtube.com/watch" method="get">
-  <input type="hidden" name="v" value="LTobZMNm4Fw">
-  <input type="submit" value="Submit">
-</form> 
+<p align=right>
+  <form action="https://www.youtube.com/watch" method="get">
+    <input type="hidden" name="v" value="LTobZMNm4Fw">
+    <input type="submit" value="Submit">
+  </form> 
+</p>
