@@ -1,6 +1,7 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/) ![nothing](https://user-images.githubusercontent.com/64295233/134528980-3d398c71-0db3-4b63-8ea0-e537a35f251f.png) Write your complaint below:
+[![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/)
 
 <p align=center>
+  <h1>Write your complaint below:</h1>
   <textarea name="BallsBox" cols="75" rows="30">
   </textarea>
 </p>
