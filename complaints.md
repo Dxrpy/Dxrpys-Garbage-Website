@@ -2,7 +2,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-<p align=center>
+<p align=left>
   <textarea name="BallsBox" cols="75" rows="30">
   </textarea>
 </p>
