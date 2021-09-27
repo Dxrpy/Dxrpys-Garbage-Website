@@ -7,8 +7,6 @@
   </textarea>
 </p>
 
----
-
 <div style="text-align:center"> 
   <form action="https://www.youtube.com/watch" method="get">
     <input type="hidden" name="v" value="LTobZMNm4Fw">
