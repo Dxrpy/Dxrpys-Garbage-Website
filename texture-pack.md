@@ -28,7 +28,7 @@
 
 ## Download (for omega chads):
 
-### [`TexturePack`](https://www.mediafire.com/file/ejh55vq4mvtmn6g/MemeMashUpPack.zip/file) DOWNLOAD
+### ![`TexturePack`](https://www.mediafire.com/file/ejh55vq4mvtmn6g/MemeMashUpPack.zip/file) DOWNLOAD
 
 **Instructions:**
 
