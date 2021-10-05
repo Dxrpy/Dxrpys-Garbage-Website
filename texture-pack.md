@@ -28,7 +28,7 @@
 
 ## Download (for omega chads):
 
-N/A
+### [`TexturePack`](https://www.mediafire.com/file/ejh55vq4mvtmn6g/MemeMashUpPack.zip/file) DOWNLOAD
 
 **Instructions:**
 
@@ -36,7 +36,7 @@ N/A
 
 *- Exract the .zip file where ever you want on your pc*
 
-*- Select everything you just extracted (ctrl + a)*
+*- Select everything you just extracted inside the folder (ctrl + a)*
 
 *- Copy everything (ctrl + c)*
 
