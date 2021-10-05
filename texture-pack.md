@@ -28,7 +28,11 @@
 
 ## Download (for omega chads):
 
+---
+
 <h3><b><a href="https://www.mediafire.com/file/ejh55vq4mvtmn6g/MemeMashUpPack.zip/file">DOWNLOAD</a></b></h3>
+
+---
 
 **Instructions:**
 
@@ -54,7 +58,7 @@
 
 ### <ins>**Icons**</ins>
 
-![`IconsShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889022701216350248/unknown.png)
+![`IconsShowcase`](https://user-images.githubusercontent.com/64295233/136005669-d144f43d-584b-4457-b68b-9f7b10e00cb6.png)
 
 ### <ins>**Shop**</ins>
 
@@ -62,6 +66,6 @@
 
 ### <ins>**Menu**</ins>
 
-[![`MenuShowcase`](https://cdn.discordapp.com/attachments/584355797366997002/889023270043668530/unknown.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/secret)
+[![`MenuShowcase`](https://user-images.githubusercontent.com/64295233/136005778-cf3a845e-61e7-4b59-b736-bac9a4db67ce.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/secret)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
