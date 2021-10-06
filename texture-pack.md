@@ -3,7 +3,7 @@
 
 ### - Texture pack I made because I was bored.
 ### - Includes some mash-ups of other texture packs + my own.
-### - I suggest not using any glow on your icons or they will break...
+### - I suggest N̳O̳T̳ U̳S̳I̳N̳G̳ A̳N̳Y̳ G̳L̳O̳W̳ on your icons or they will break...
 ### (Then again I'm not your dad so I don't really care.)
 ## YouTube Preview:
 <h2><a href="https://www.youtube.com/watch?v=kPF58rUPXDg">https://www.youtube.com/watch?v=kPF58rUPXDg</a></h2>
