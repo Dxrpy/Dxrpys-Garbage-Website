@@ -5,6 +5,8 @@
 ### - Includes some mash-ups of other texture packs + my own.
 ### - I suggest not using any glow on your icons or they will break...
 ### (Then again I'm not your dad so I don't really care.)
+### YouTube Preview:
+## https://www.youtube.com/watch?v=kPF58rUPXDg
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
