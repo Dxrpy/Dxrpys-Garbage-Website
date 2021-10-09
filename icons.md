@@ -2,10 +2,10 @@
 
 ---
 
-![`Icon`](https://gdbrowser.com/icon/icon?icon=104&form=cube&col1=15&col2=9)
+![`Icon`](https://gdbrowser.com/icon/icon?icon=104&form=cube&col1=15&col2=9) Open 100 Chests in The Treasure Room
 ## Cube
 ---
-![`Ship`](https://gdbrowser.com/icon/icon?icon=42&form=ship&col1=15&col2=9)
+![`Ship`](https://gdbrowser.com/icon/icon?icon=42&form=ship&col1=15&col2=9) Buy in the Community Shop for 6000 Mana Orbs
 ## Ship
 ---
 ![`Ball`](https://gdbrowser.com/icon/icon?icon=9&form=ball&col1=15&col2=9)
