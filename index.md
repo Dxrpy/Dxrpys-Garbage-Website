@@ -1,4 +1,6 @@
-<link rel="shortcut icon" type="image/x-icon" href="gold skull.ico">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="gold skull.ico">
+</head>
 
 <h1 style="text-align:center">Hello there...</h1>
 
