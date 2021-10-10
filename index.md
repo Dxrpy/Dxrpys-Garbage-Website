@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="shortcut icon" type="image/x-icon" href="gold skull.ico?">
+        <link rel="icon" href="gold skull.ico">
     </head>
 </html>
   
