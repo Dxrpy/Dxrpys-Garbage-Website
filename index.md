@@ -79,7 +79,7 @@
 
 #### Very yes game
 
-[![`Castle`](https://static.wikia.nocookie.net/castlecrashers/images/6/69/11_Giraffey.png/revision/latest/top-crop/width/360/height/360?cb=20200325021451)](https://dxrpy.github.io/Dxrpys-Garbage-Website/)
+[![`Castle`](https://user-images.githubusercontent.com/64295233/136686997-03313554-a809-4b26-a742-f062906378eb.jpg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castle)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
