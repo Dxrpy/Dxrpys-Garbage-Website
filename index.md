@@ -1,8 +1,6 @@
-<html>
-    <head>
-        <link rel="icon" href="gold skull.ico">
-    </head>
-</html>
+<head>
+    <link rel="icon" href="gold skull.ico">
+</head>
   
 <h1 style="text-align:center">Hello there...</h1>
 
