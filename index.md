@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <h1 style="text-align:center">Hello there...</h1>
 
 ### Not sure what brings you here but whatever it is, I probably can't help with it.
