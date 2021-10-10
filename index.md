@@ -1,7 +1,10 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="gold skull.ico">
-</head>
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="shortcut icon" type="image/x-icon" href="gold skull.ico">
+    </head>
+</html>
+  
 <h1 style="text-align:center">Hello there...</h1>
 
 ### Not sure what brings you here but whatever it is, I probably can't help with it.
