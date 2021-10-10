@@ -75,6 +75,14 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+## Castle Crashers Stuff
+
+#### Very yes game
+
+[![`Castle`](https://static.wikia.nocookie.net/castlecrashers/images/6/69/11_Giraffey.png/revision/latest/top-crop/width/360/height/360?cb=20200325021451)](https://dxrpy.github.io/Dxrpys-Garbage-Website/)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## Help Dora.
 
 #### Just do it.
