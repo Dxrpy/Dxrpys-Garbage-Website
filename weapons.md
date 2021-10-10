@@ -2,15 +2,15 @@
 
 ---
 
-## You can use these to get locked weapons or bypass level restrictions using cheat engine.
-## I'm not gunna be the one to teach you how to do it but just have some fun
-## These IDs will make finding the weapons so much easier, enjoy :D
+#### You can use these to get locked weapons or bypass level restrictions using cheat engine.
+#### I'm not gunna be the one to teach you how to do it but just have some fun
+#### These IDs will make finding the weapons so much easier, enjoy :D
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 <p align=center>
   <textarea name="BallsBox" cols="75" rows="30">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀3 - Thin Sword
+3 - Thin Sword
 25 - Mace
 39 - Sheathed Sword
 47 - Alien Gun
