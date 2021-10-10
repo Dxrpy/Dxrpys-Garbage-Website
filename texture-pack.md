@@ -5,6 +5,9 @@
 ### - Includes some mash-ups of other texture packs + my own.
 ### - I suggest N̳O̳T̳ U̳S̳I̳N̳G̳ A̳N̳Y̳ G̳L̳O̳W̳ on your icons or they will break...
 ### (Then again I'm not your dad so I don't really care.)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## YouTube Preview:
 <h2><a href="https://www.youtube.com/watch?v=kPF58rUPXDg">https://www.youtube.com/watch?v=kPF58rUPXDg</a></h2>
 
