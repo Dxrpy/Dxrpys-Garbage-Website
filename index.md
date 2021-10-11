@@ -75,6 +75,14 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
+## Espanol
+
+#### ejfvjhwg
+
+[![`npesta`](https://user-images.githubusercontent.com/64295233/136723777-f1b0ba9b-4c03-4b6d-9c78-48d2a87ace1d.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/espanol)
+
+![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
+
 ## Castle Crashers Stuff
 
 #### Very yes game
