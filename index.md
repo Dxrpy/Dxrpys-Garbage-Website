@@ -77,7 +77,7 @@
 
 ## Espanol
 
-#### ejfvjhwg
+#### quien es joe bofa
 
 [![`npesta`](https://user-images.githubusercontent.com/64295233/136723777-f1b0ba9b-4c03-4b6d-9c78-48d2a87ace1d.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/espanol)
 
