@@ -21,7 +21,7 @@
 #### Info about all things GD
 
 
-[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/890912054448381952/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
+[![`GDStuff`](https://cdn.discordapp.com/attachments/584355797366997002/890912054448381952/Geometry_Dash_Logo_1.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/gd/geometry-dash)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
