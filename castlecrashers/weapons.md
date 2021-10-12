@@ -1,4 +1,4 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castle)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Sword IDs
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/castle)![`Nothing`](https://cdn.discordapp.com/attachments/584355797366997002/889386862916014090/nothing.png) Sword IDs
 
 ---
 
