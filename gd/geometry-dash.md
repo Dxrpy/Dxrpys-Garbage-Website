@@ -12,13 +12,13 @@ Account
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-[![`Icons`](https://cdn.discordapp.com/attachments/584355797366997002/888992033639895060/GJ_garageBtn_001.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/icons)
+[![`Icons`](https://cdn.discordapp.com/attachments/584355797366997002/888992033639895060/GJ_garageBtn_001.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/gd/icons)
 
 Icons
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-[![`Robtop`](https://cdn.discordapp.com/attachments/584355797366997002/889011822370377789/question.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/robtop)
+[![`Robtop`](https://cdn.discordapp.com/attachments/584355797366997002/889011822370377789/question.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/gd/robtop)
 
 What could this be?
 
