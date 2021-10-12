@@ -1,4 +1,4 @@
-# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/geometry-dash)
+# [![back](https://cdn.discordapp.com/emojis/887168885747511396?size=32)](https://dxrpy.github.io/Dxrpys-Garbage-Website/gd/geometry-dash)
 
 ---
 
