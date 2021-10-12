@@ -87,7 +87,7 @@
 
 #### Very yes game
 
-[![`Castle`](https://user-images.githubusercontent.com/64295233/136686997-03313554-a809-4b26-a742-f062906378eb.jpg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castle)
+[![`Castle`](https://user-images.githubusercontent.com/64295233/136686997-03313554-a809-4b26-a742-f062906378eb.jpg)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/castle)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
