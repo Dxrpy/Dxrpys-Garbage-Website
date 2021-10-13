@@ -71,7 +71,7 @@
 
 #### Password protected, don't try me.
 
-[![`npesta`](https://cdn.discordapp.com/attachments/584355797366997002/890841906676916224/134522310-ed716c6c-e625-409b-846a-16c5eafe11a9.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/password.html)
+[![`npesta`](https://cdn.discordapp.com/attachments/584355797366997002/890841906676916224/134522310-ed716c6c-e625-409b-846a-16c5eafe11a9.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/npesta/password.html)
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
