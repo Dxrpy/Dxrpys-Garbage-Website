@@ -1,5 +1,3 @@
-<SCRIPT>
-
 //if IE4/NS6, apply style
 if (document.all||document.getElementById){
 document.write('<style>.tictac{')
@@ -671,7 +669,7 @@ function resetter()
 {
   reset()
 }
-</SCRIPT>
+
 
 <FORM NAME="tic" method="post">
 <INPUT TYPE="button" NAME="sqr1" class="tictac" value="     " onClick="if(document.tic.sqr1.value == '     ' && turn == 0 && mode == 1) {document.tic.sqr1.value = ' X '; sqr1T = 1; turn = 1; vari(); check();} else if(document.tic.sqr1.value == '     ' && turn == 1 && mode == 2) {document.tic.sqr1.value = ' X '; sqr1T = 1; turn = 0; vari(); player1Check()} else if(document.tic.sqr1.value == '     ' && turn == 0 && mode == 2) {document.tic.sqr1.value = ' O '; sqr1T = 1; turn = 1; vari(); player1Check()} drawCheck()">
