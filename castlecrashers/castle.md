@@ -18,7 +18,8 @@ Useful Websites
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-[![Xbox-360-Wireless-Controller-White](https://user-images.githubusercontent.com/64295233/139616032-b2544781-1b6e-4ade-ac1c-4c9c21fb8f11.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/juggles)
+[![Xbox-360-Wireless-Controller-White](https://user-images.githubusercontent.com/64295233/139616117-fe90848c-4276-4fa8-ba9d-1c46f39fac19.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/juggles)
 
 Juggling Combos
+
 
