@@ -4,6 +4,13 @@
 
 <p align=center>
   <textarea name="BallsBox" cols="75" rows="30">
+    Title:
+    Platform:
+    Age Rating:
+    Price:
+    Reviews:
+    Notes:
+    Release Date:
   </textarea>
 </p>
 
