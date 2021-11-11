@@ -8,8 +8,7 @@
 </p>
 
 <div style="text-align:center"> 
-  <form action="https://www.youtube.com/watch" method="get">
-    <input type="hidden" name="v" value="LTobZMNm4Fw">
+  <form action="https://dxrpy.github.io/Dxrpys-Garbage-Website/gamestore/confirm" method="get">
     <input type="submit" value="Submit">
   </form> 
 </div>
