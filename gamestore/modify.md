@@ -3,7 +3,7 @@
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
 <p align=center>
-  <textarea name="BallsBox" cols="20" rows="30">
+  <textarea name="BallsBox" cols="30" rows="10">
 Title: 
 Platform: 
 Age Rating: 
