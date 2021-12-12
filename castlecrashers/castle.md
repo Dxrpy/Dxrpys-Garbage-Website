@@ -8,7 +8,7 @@
 
 [![`WeaponID`](https://user-images.githubusercontent.com/64295233/136686614-21ef83d4-40bd-406a-bede-29dd1ca9f882.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/weapons) | [![`Websites`](https://user-images.githubusercontent.com/64295233/136686774-0bc3bed0-10ae-422d-81e5-a9f3fbbe3209.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/websites) | [![Xbox-360-Wireless-Controller-White](https://user-images.githubusercontent.com/64295233/139616117-fe90848c-4276-4fa8-ba9d-1c46f39fac19.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/juggles) | [![`Info`](https://cdn.discordapp.com/attachments/503005122784264203/919436368441139200/15036912178-open-book-png-image.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/juggles)
 
-Weapon IDs
+Weapon IDsㅤUseful WebsitesㅤJuggling Combos
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
