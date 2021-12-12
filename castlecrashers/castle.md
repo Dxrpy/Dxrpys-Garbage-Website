@@ -6,7 +6,7 @@
 
 ![`Bar`](https://cdn.discordapp.com/attachments/584355797366997002/889006586406772746/4M7IWwP.png)
 
-[![`WeaponID`](https://user-images.githubusercontent.com/64295233/136686614-21ef83d4-40bd-406a-bede-29dd1ca9f882.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/weapons) <br><br><br><br><br>| test
+[![`WeaponID`](https://user-images.githubusercontent.com/64295233/136686614-21ef83d4-40bd-406a-bede-29dd1ca9f882.png)](https://dxrpy.github.io/Dxrpys-Garbage-Website/castlecrashers/weapons)                 | test
 
 Weapon IDs
 
