@@ -128,8 +128,4 @@
 STATS
 
 Group 1
-![image](https://user-images.githubusercontent.com/64295233/145699968-81ffb045-0853-4a51-b041-8884fe1328ef.png)![image](https://user-images.githubusercontent.com/64295233/145699975-71bbc399-eaa4-4464-a62d-70eaa6c42bea.png)
-
-![image](https://user-images.githubusercontent.com/64295233/145699958-03d934cd-1789-48fb-b2e1-3f61cdc6e16e.png)
-
-
+![group1](https://user-images.githubusercontent.com/64295233/145700460-a7c36292-59d7-49c3-841f-369714000c76.png)
